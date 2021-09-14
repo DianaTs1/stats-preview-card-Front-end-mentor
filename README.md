@@ -55,13 +55,11 @@ Also I am getting used to the global CSS variables and html landmarks.
 
 
 ```css
-.proud-of-this-css {
     :root {
   	--blue-background: hsl(244, 38%, 16%);
   	--soft-violet: hsla(277, 64%, 61%, 0.445);
   	--paragraph-color: hsla(0, 4%, 81%, 0.75);
   	--heading-color: hsla(0, 0%, 100%, 0.6);
-  } 
 }
 ```
 
