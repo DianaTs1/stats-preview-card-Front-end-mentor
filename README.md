@@ -14,6 +14,19 @@ I changed the layout a little bit.
 
 ### Screenshot
 
+### Desktop
+
+<img width="1680" alt="Screen Shot 2021-09-14 at 4 48 26 PM" src="https://user-images.githubusercontent.com/73934231/133331810-3756a905-aaf8-46bc-bc2a-f1f1a0b70cf8.png">
+
+
+## Tablet
+
+<img width="706" alt="Screen Shot 2021-09-14 at 4 48 48 PM" src="https://user-images.githubusercontent.com/73934231/133331897-ebf064e4-b4f7-4067-bcc2-91a5cf42279c.png">
+
+## Mobile
+
+<img width="329" alt="Screen Shot 2021-09-14 at 4 49 32 PM" src="https://user-images.githubusercontent.com/73934231/133331952-29e62f8c-07dd-482b-800a-e0ce8b367e98.png">
+
 
 
 ### Links
